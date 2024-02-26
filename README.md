@@ -40,9 +40,48 @@ The primary objective of this project is to analyze bike sales data and create m
    - Hypotheses were tested regarding how factors like income, age, and commuter status impact bike purchases and usage.
 
 **Insights:**
-- Higher-income individuals tend to purchase more bikes, but we can use the slicer to see if this holds true for specific income brackets in different regions.
-- Commuters who ride longer distances may have distinct characteristics based on age or income, which can inform targeted marketing strategies.
-- Certain age ranges show higher participation in biking, suggesting potential age-specific marketing approaches.
+**INSIGHTS FROM THE 'AVERAGE INCOME PER BIKE PURCHASE GRAPH':**
+  - Concerning commuters who earn over $57,000, only males purchased bikes
+  - Filtering by commuters who have a Bachelor's degree, there are significantly more women who bike than those who do not 
+  - In the young people age group (34 or younger), there are more female commuters than male
+  - For those who earn $20,0000 or less, there is a near-even split of bike vs non-bikers commuters at 50.5%
+  - Filtering by marital status, there are way more men who purchase bikes than otherwise. In women, single women are much less likely to purchase a bike
+  - Single women who owned cars were more likely to purchase by bike
+  - Among young people who do not own a car, both men and women were less likely to purchase a bike
+  - Married people with a graduate degree were less likely to purchase a bike
+  - Single people with a partial high school education were more likely to purchase a bike
+  - Middle age women, with a partial high school education, and 2 cars who earned $70,000 owned a bike, whereas their male counterparts did not
+    
+**INSIGHTS FROM THE 'COMMUTERS VS DISTANCE TRAVELED GRAPH':**
+  - Most covered travel a distance of 0-1 miles on average
+  - More male commutes travel 5-10 miles vs female commuters
+  - Most old commuters (60 or older) travel 5-10 miles on average
+  - Most commuters in North America travel 2-5 miles on average
+  - Commuters who earn $130,000 or more travel 5-10 miles on average
+  - Young commuters in Europe travel 2-5 miles on average
+  - Middle-aged men travel a distance of 0-1 miles on average
+  - Most commuters in Europe and North America travel 0-1 miles on average
+  - In the Pacific, most commuters travel 0-1 miles on average followed closely by 5-10 miles
+  - Old people in the Pacific travel 5-10 miles on average
+  - Men in the Pacific travel 5-10 miles on average
+  - People who earn over $100,000 in the Pacific travel 10+ miles on average
+  - North Americans who earn $50,000 or less travel 1-2 miles on average
+  - Europeans who earn $80-000 to $100,000 travel 2-5 miles on average
+  - Young people who earn $30,000 travel 0-1 miles on average
+  - Female commuters who earn $120,000 travel 10+ miles on average
+  - Old people who earn $70,000 travel 10+ miles on average
 
+**INSIGHTS FROM THE 'AGE RANGE VS NUMBER OF BIKERS GRAPH':**
+  - Middle-aged people had the largest share of bikers
+  - The 'Old' age range category had the least share of bikers
+  - For commuters who earn $100,000, 'Middle-age' and 'Old' age range had the joint largest share of bikers
+  - Among men who travel 10+ miles, the middle-aged group had the largest share of bikers, followed closely by the 'Young' age range
+  - Among women in the Pacific who earned $70,000, there were no bikers in the 'Old' age range
+  - Comparing North American women who earned $40,000 or less, those in the 'Old' age range had the least share of bikers
+  - About 70% of all commuters were middle-aged
+  - The second largest age group of commuters across all regions were young people
+  - Among people who earned $100,000 to $150,000 more young people owned bikes than not
+  - Among North Americans who earned $100,000 to $150,000 more people across all age groups did not own bikes than did
+    
 **Conclusion:**
 This Excel project offers a comprehensive analysis of bike sales data, providing valuable insights into consumer behavior. The interactive nature of the visualizations, with slicers for customization, allows for a detailed exploration of the dataset. By understanding the relationships between income, commuter status, age, and bike purchases, businesses can make informed decisions to target their market effectively.
